@@ -1,35 +1,39 @@
 var member = [
   {
     "phone": "",
-    "name": "曲和"
+    "name": "栈长"
   },
   {
     "phone": "",
-    "name": "白开心"
+    "name": "库特"
   },
   {
     "phone": "",
-    "name": "川枫"
+    "name": "明程"
   },
   {
     "phone": "",
-    "name": "头孢"
+    "name": "空寻"
   },
   {
     "phone": "",
-    "name": "木绣"
+    "name": "干拉"
   },
   {
     "phone": "",
-    "name": "宁齐"
+    "name": "骛望"
   },
   {
     "phone": "",
-    "name": "河岳"
+    "name": "晟一"
   },
   {
     "phone": "",
-    "name": "志凯"
+    "name": "戒律"
+  },
+  {
+    "phone": "",
+    "name": "织弦"
   },
   {
     "phone": "",
@@ -53,7 +57,7 @@ var member = [
   },
   {
     "phone": "",
-    "name": "语忌"
+    "name": "沙匠"
   },
   {
     "phone": "",
@@ -61,11 +65,11 @@ var member = [
   },
   {
     "phone": "",
-    "name": "爱夕"
+    "name": "临野"
   },
   {
     "phone": "",
-    "name": "沙匠"
+    "name": "飏洋"
   },
   {
     "phone": "",
@@ -73,35 +77,27 @@ var member = [
   },
   {
     "phone": "",
-    "name": "临野"
+    "name": "头孢"
   },
   {
     "phone": "",
-    "name": "花姓"
+    "name": "宁齐"
   },
   {
     "phone": "",
-    "name": "刘龍"
+    "name": "木绣"
   },
   {
     "phone": "",
-    "name": "栈长"
+    "name": "川枫"
   },
   {
     "phone": "",
-    "name": "空寻"
+    "name": "志凯"
   },
   {
     "phone": "",
-    "name": "鹜望"
-  },
-  {
-    "phone": "",
-    "name": "明程"
-  },
-  {
-    "phone": "",
-    "name": "干拉"
+    "name": "河岳"
   },
   {
     "phone": "",
@@ -109,30 +105,10 @@ var member = [
   },
   {
     "phone": "",
-    "name": "子佟"
-  },
-  {
-    "phone": "",
-    "name": "星炽"
-  },
-  {
-    "phone": "",
-    "name": "织弦"
-  },
-  {
-    "phone": "",
-    "name": "库特"
-  },
-  {
-    "phone": "",
-    "name": "戒律"
-  },
-  {
-    "phone": "",
     "name": "此彼"
   },
   {
     "phone": "",
-    "name": "晟一"
+    "name": "淼缈"
   },
 ]
