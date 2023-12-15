@@ -8,10 +8,6 @@ var member = [{
 },
 {
   "phone": "",
-  "name": "明程"
-},
-{
-  "phone": "",
   "name": "空寻"
 },
 {
