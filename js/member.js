@@ -28,10 +28,6 @@ var member = [{
 },
 {
   "phone": "",
-  "name": "织弦"
-},
-{
-  "phone": "",
   "name": "承武"
 },
 {
@@ -60,19 +56,11 @@ var member = [{
 },
 {
   "phone": "",
-  "name": "临野"
-},
-{
-  "phone": "",
   "name": "飏洋"
 },
 {
   "phone": "",
   "name": "柒伍"
-},
-{
-  "phone": "",
-  "name": "头孢"
 },
 {
   "phone": "",
@@ -100,5 +88,21 @@ var member = [{
 },
 {
   "phone": "",
-  "name": "淼缈"
+  "name": "遄行"
+},
+{
+  "phone": "",
+  "name": "筱车"
+},
+{
+  "phone": "",
+  "name": "禾源"
+},
+{
+  "phone": "",
+  "name": "星炽"
+},
+{
+  "phone": "",
+  "name": "明程"
 },]
